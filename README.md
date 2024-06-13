@@ -1,6 +1,5 @@
 ---
 title: "Enhancing K-means Clustering for Single-Cell Data Analysis"
-output: github_document
 ---
 
 # Overview
