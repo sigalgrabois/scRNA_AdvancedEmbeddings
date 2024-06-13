@@ -1,5 +1,5 @@
 ---
-"Enhancing K-means Clustering for Single-Cell Data Analysis": By Sigal Grabois and Vered Klein
+Enhancing K-means Clustering for Single-Cell Data Analysis By Sigal Grabois and Vered Klein
 ---
 
 # Overview
