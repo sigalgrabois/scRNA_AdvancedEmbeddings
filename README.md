@@ -18,7 +18,7 @@ Traditional methods for analyzing scRNA-seq data mainly rely on raw gene express
 
 ### Advanced Embedding Techniques
 
-- **Universal Cell Embeddings (UCE)**: A self-supervised model that maps single-cell gene expression profiles into a universal embedding space, capturing the vast molecular diversity across different cell types and species.
+- **Universal Cell Embeddings (UCE)**: Using a self-supervised model that maps single-cell gene expression profiles into a universal embedding space, capturing the vast molecular diversity across different cell types and species.
 - **Cell2Sentence**: Another embedding technique for creating meaningful representations of single-cell data.
 - **PCA and Original Data**: Used as benchmarks for comparison.
 
