@@ -49,8 +49,6 @@ The integration of advanced embedding techniques with enhanced clustering algori
 2. [Cell2Sentence](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
 3. [Lin et al.](https://academic.oup.com/nar/article/45/17/e156/4056711)
 4. [Li et al.](https://academic.oup.com/nar/article/45/19/e166/4096349)
-5. [Hua et al.](https://ieeexplore.ieee.org/abstract/document/9143102)
-6. [Liu et al.](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.912711/full)
 
 ## Requirements
 
