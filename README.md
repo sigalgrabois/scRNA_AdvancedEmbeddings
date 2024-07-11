@@ -36,6 +36,7 @@ We propose modifying the K-means++ algorithm by incorporating cell density in th
 ### Evaluation
 
 We evaluate the clustering performance using score accuracy between known labels to the majority of the labels within each cluster. The results show that integrating advanced embedding techniques with the K-means++ algorithm improves clustering accuracy and robustness.
+Results for 10K PBMC Data Set:
 
 ![Accuracy vs. Number of Clusters for Different Methods](image.png)
 
